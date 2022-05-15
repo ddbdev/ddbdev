@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddbdev&label=Profile%20views&color=0e75b6&style=flat" alt="ddbdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddbdev" alt="ddbdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddbdev&theme=monokai" alt="ddbdev" /></a> </p>
 
 - 🔭 I’m currently working on **learning java**
 
@@ -24,7 +24,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ddbdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ddbdev" /></a><a href="https://ko-fi.com/ddbdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/ddbdev" /></a></p><br><br>
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddbdev&show_icons=true&locale=en&layout=compact" alt="ddbdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddbdev&show_icons=true&locale=en" alt="ddbdev" /></p>
+</div>
