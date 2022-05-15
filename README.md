@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddbdev&label=Profile%20views&color=0e75b6&style=flat" alt="ddbdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddbdev" alt="ddbdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddbdev&theme=monokai" alt="ddbdev" /></a> </p>
 
 - 🔭 I’m currently working on **learning java**
 
