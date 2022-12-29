@@ -11,6 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://portfolio-ddbdev.vercel.app/" alt="ddbdev portfolio"><img width="32px" src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/terminal-light.svg"/></a>
 </p>
 
 <br/>
@@ -24,6 +25,11 @@
   <a href="https://github.com/ddbdev?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ddbdev?color=%23E05D44&labelColor=CE4630&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<p align="center">
+  <a href="https://portfolio-ddbdev.vercel.app/"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-DDBDEV_Portfolio-01454b?style=for-the-badge&logo=react&logoColor=white"/></a>
+</p>
+
 
 ---
 
